@@ -1,6 +1,6 @@
 # Same Image, Different Coverage
 
-A reproducible companion-context audit of prediction-time batch normalization in medical image classifiers. Research draft by Shivam Gupta; author review and venue declarations are pending. No submission or acceptance is claimed. The four-page PDF uses the official IEEE ISBI template; the required final author declarations are not yet supplied.
+A reproducible companion-context audit of prediction-time batch normalization in medical image classifiers. Research manuscript by Shivam Gupta. The author has confirmed review, responsibility, affiliation, eligibility, and submission declarations. No submission or acceptance is claimed. The four-page PDF uses the official IEEE ISBI template and includes ethics, funding, conflict-of-interest, and AI-assistance statements.
 
 The empirical question is whether true-label inclusion for one unchanged query persists across a fixed menu of batch companions. The audit compares nominal calibration, context-specific calibration, Bonferroni, Corrected Max-Rank (Schlembach et al., 2026), and existing maximum-score calibration. It does not introduce these established conformal methods.
 

@@ -5,7 +5,7 @@ authors:
   - family-names: Gupta
     given-names: Shivam
     affiliation: Independent Researcher
-version: 0.1.0
+version: 0.1.1
 license: MIT
 # MIT applies to src/ only; see LICENSE for data, weights, and manuscript terms.
 date-released: 2026-10-12
