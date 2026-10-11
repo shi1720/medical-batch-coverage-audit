@@ -1,0 +1,31 @@
+{
+  "names": [
+    "natural_0",
+    "balanced_0",
+    "class0_0",
+    "class1_0",
+    "natural_1",
+    "balanced_1",
+    "class0_1",
+    "class1_1",
+    "natural_2",
+    "balanced_2",
+    "class0_2",
+    "class1_2"
+  ],
+  "batch": 32,
+  "unique_counts": [
+    31,
+    31,
+    31,
+    31,
+    31,
+    29,
+    31,
+    31,
+    31,
+    30,
+    31,
+    31
+  ]
+}

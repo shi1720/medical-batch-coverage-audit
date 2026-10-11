@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If using this software, cite the research draft and identify the archived version. No venue acceptance is claimed."
+title: "Same Image, Different Coverage: Auditing Batch-Adaptive Medical Classifiers"
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+    affiliation: Independent Researcher
+version: 0.1.0
+license: MIT
+# MIT applies to src/ only; see LICENSE for data, weights, and manuscript terms.
+date-released: 2026-10-12
+repository-code: https://github.com/shi1720/medical-batch-coverage-audit
+abstract: "A reproducible empirical audit of companion-context sensitivity and simultaneous conformal coverage in medical image classifiers."
+keywords:
+  - medical imaging
+  - batch normalization
+  - conformal prediction
+  - reproducibility

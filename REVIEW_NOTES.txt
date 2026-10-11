@@ -1,0 +1,25 @@
+Scientific review status
+
+This is an exploratory empirical research draft, not an accepted paper or an independently peer-reviewed clinical study. The implemented experiments are real. Reported values must be traceable to saved prediction tensors and generated tables. Completed verification: all 45 primary and five 224-pixel model histories are present; 16 correctness tests pass; 85 primary/extension prediction files passed CPU replay (maximum probability difference 2.48e-6); all 133 prediction files passed structural checks. The single-command rebuild succeeded, and its four PDF pages matched the visually inspected raster pages exactly. These are implementation checks, not independent scientific peer review.
+
+Strengths:
+- A paired intervention holds query pixels and model weights fixed.
+- Mean-context and all-context coverage are explicitly different estimands.
+- Dependence-aware and conservative simultaneous corrections use identical underlying predictions.
+- Finite-sample rank conventions, ties, infinity thresholds, and isolated query groups are tested.
+- Exact-byte overlap and published dermatology lesion leakage are addressed before final dataset training.
+- Five seeds and dependent split-sensitivity analyses are reported without treating contexts or resplits as independent patients.
+
+Material limitations and likely reviewer objections:
+- The general methods are established; novelty is the controlled medical-image audit and operational distinction. This is an incremental contribution. A literature search cannot prove that no overlapping work exists.
+- Primary experiments use compact 28-pixel classifiers; the secondary 224-pixel extension uses one pretrained natural-image backbone and five fine-tuning epochs. Evidence about diagnostic-resolution models or medical foundation models remains limited.
+- Fixed class-homogeneous menus are stress tests and may not approximate deployment batch frequencies.
+- No protected clinical endpoint, clinician benefit, prospective performance, commercial efficacy, patentability, or regulatory readiness is established.
+- Patient identifiers are unavailable in these experiments; dermatology metadata establish lesion separation only. Byte de-duplication is not proof of patient-disjoint data.
+- Global coverage can obscure poor rare-class coverage; per-class diagnostics must be reviewed.
+- BreastMNIST has only 77 calibration and 78 evaluation examples; uncertainty and infinity thresholds are substantial.
+- The protocol is exploratory with disclosed amendments after pilot outcomes. It is not a preregistered confirmatory study.
+- Split-conformal guarantees are marginal, not conditional on a particular fitted calibration set or valid under arbitrary unseen contexts.
+
+Recommended scientific decision:
+Use the completed study as a reproducible short-paper candidate or research foundation. Do not describe it as groundbreaking, universally novel, clinically proven, or highly likely to be accepted at a major conference. Independent author review is required before submission. A stronger major-conference version would test patient-disjoint, diagnostic-resolution cohorts and modern pretrained medical models; those experiments are not part of this artifact and must not be claimed complete.

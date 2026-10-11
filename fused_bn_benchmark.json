@@ -1,0 +1,17 @@
+{
+  "seconds": {
+    "False": [
+      2.353992223739624,
+      2.0790250301361084
+    ],
+    "True": [
+      0.6392850875854492,
+      0.6470320224761963
+    ]
+  },
+  "max_probability_difference": 8.344650268554688e-07,
+  "queries": 16,
+  "contexts": 1,
+  "block": 4,
+  "concurrent_other_processes": true
+}

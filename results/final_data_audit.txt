@@ -1,0 +1,146 @@
+[
+  {
+    "dataset": "pneumoniamnist",
+    "archive": "pneumoniamnist.npz",
+    "sha256": "e1792d3f03751cb101e99f19a63b3c1941436c988665f47853417b05be250cd8",
+    "raw": {
+      "train": {
+        "n": 4708,
+        "unique_byte_hashes": 4690,
+        "label_counts": [
+          1214,
+          3494
+        ]
+      },
+      "val": {
+        "n": 524,
+        "unique_byte_hashes": 524,
+        "label_counts": [
+          135,
+          389
+        ]
+      },
+      "test": {
+        "n": 624,
+        "unique_byte_hashes": 621,
+        "label_counts": [
+          234,
+          390
+        ]
+      }
+    },
+    "retained": {
+      "train": 4690,
+      "val": 516,
+      "test": 621
+    },
+    "raw_cross_split_byte_overlap": {
+      "train_val": 8,
+      "train_test": 0,
+      "val_test": 0
+    }
+  },
+  {
+    "dataset": "breastmnist",
+    "archive": "breastmnist.npz",
+    "sha256": "3a22d2a4625e7dd8903f0f59030e81a3d0c222bece2e5e10927456cb50efdec1",
+    "raw": {
+      "train": {
+        "n": 546,
+        "unique_byte_hashes": 546,
+        "label_counts": [
+          147,
+          399
+        ]
+      },
+      "val": {
+        "n": 78,
+        "unique_byte_hashes": 78,
+        "label_counts": [
+          21,
+          57
+        ]
+      },
+      "test": {
+        "n": 156,
+        "unique_byte_hashes": 156,
+        "label_counts": [
+          42,
+          114
+        ]
+      }
+    },
+    "retained": {
+      "train": 546,
+      "val": 78,
+      "test": 155
+    },
+    "raw_cross_split_byte_overlap": {
+      "train_val": 0,
+      "train_test": 1,
+      "val_test": 0
+    }
+  },
+  {
+    "dataset": "dermamnist",
+    "archive": "dermamnist_corrected_28.npz",
+    "sha256": "c3d9cbd9008a0dcb76943d5cf38681bdc5166effc79f9e215657b859b9226aa8",
+    "raw": {
+      "train": {
+        "n": 8215,
+        "unique_byte_hashes": 8213,
+        "label_counts": [
+          273,
+          448,
+          944,
+          102,
+          1021,
+          5309,
+          118
+        ]
+      },
+      "val": {
+        "n": 573,
+        "unique_byte_hashes": 573,
+        "label_counts": [
+          19,
+          22,
+          50,
+          5,
+          22,
+          448,
+          7
+        ]
+      },
+      "test": {
+        "n": 1227,
+        "unique_byte_hashes": 1227,
+        "label_counts": [
+          35,
+          44,
+          105,
+          8,
+          70,
+          948,
+          17
+        ]
+      }
+    },
+    "retained": {
+      "train": 8213,
+      "val": 573,
+      "test": 1149
+    },
+    "raw_cross_split_byte_overlap": {
+      "train_val": 0,
+      "train_test": 0,
+      "val_test": 0
+    },
+    "lesion_overlap": {
+      "train_val": 0,
+      "train_test": 0,
+      "val_test": 0
+    },
+    "metadata_sha256": "c27194d338986463966e1694d5b49fda933222368f04b316c702ac2e8a0d4f5c"
+  }
+]

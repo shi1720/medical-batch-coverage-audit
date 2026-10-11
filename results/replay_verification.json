@@ -1,0 +1,677 @@
+[
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "cnn_bn",
+    "seed": 0,
+    "mode": "source",
+    "max_cpu_replay_error": 2.8312206268310547e-07,
+    "checkpoint_sha256": "5bd6696925831d8ce3591ded0d57cc7febde6c787b369b826fe6e732b7d5ae83",
+    "probability_sha256": "ebcafd4a2de64cd1a2a11fc57f08cb9ae51b3ef2ab323c5ca9bc676d6c767323"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "cnn_bn",
+    "seed": 0,
+    "mode": "target",
+    "max_cpu_replay_error": 2.384185791015625e-07,
+    "checkpoint_sha256": "5bd6696925831d8ce3591ded0d57cc7febde6c787b369b826fe6e732b7d5ae83",
+    "probability_sha256": "9b01c6935c3b79b07c06caa5ef8f268a0a43df68b68d8ffd797570b9b96c6047"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "cnn_bn",
+    "seed": 1,
+    "mode": "source",
+    "max_cpu_replay_error": 5.960464477539063e-08,
+    "checkpoint_sha256": "1d6bc39c0c936b71bdc4e84cf82bdd1c1de0598e5e2b561e1ff7b37437799234",
+    "probability_sha256": "2cca02284e8323a22df018c09a4b246f640483b2384c3ab07913fecc7827de0f"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "cnn_bn",
+    "seed": 1,
+    "mode": "target",
+    "max_cpu_replay_error": 4.76837158203125e-07,
+    "checkpoint_sha256": "1d6bc39c0c936b71bdc4e84cf82bdd1c1de0598e5e2b561e1ff7b37437799234",
+    "probability_sha256": "c6a110ffa35a18295279e0eff480bafe9dcf5e45d05a43d277c49fc3eac21fdb"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "cnn_bn",
+    "seed": 2,
+    "mode": "source",
+    "max_cpu_replay_error": 4.0978193283081055e-08,
+    "checkpoint_sha256": "b6849b3c565da6619f878a027bb02317d2e6cce3906a0d83a4da48c943b39a2d",
+    "probability_sha256": "3f598865e25f899ed9b466fafff69ad486dda7e84604fc15985f05d07f644e21"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "cnn_bn",
+    "seed": 2,
+    "mode": "target",
+    "max_cpu_replay_error": 7.301568984985352e-07,
+    "checkpoint_sha256": "b6849b3c565da6619f878a027bb02317d2e6cce3906a0d83a4da48c943b39a2d",
+    "probability_sha256": "6a8e9232f3e8f7d2e8dc4b335464cb25e959b983fd0d6010004a2dd7ceb23e39"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "cnn_bn",
+    "seed": 3,
+    "mode": "source",
+    "max_cpu_replay_error": 8.940696716308594e-08,
+    "checkpoint_sha256": "fa5ae2b981ecf2640f246987e627ca371f1cca26f7c5adf694be7d09ee764ecb",
+    "probability_sha256": "a1bd7101b804264ff99aa268b8fc5d29a67b7731ac638d0bfa3bed9c3cc35230"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "cnn_bn",
+    "seed": 3,
+    "mode": "target",
+    "max_cpu_replay_error": 7.897615432739258e-07,
+    "checkpoint_sha256": "fa5ae2b981ecf2640f246987e627ca371f1cca26f7c5adf694be7d09ee764ecb",
+    "probability_sha256": "c48dfdaf65bcf8b75ee54c7aa989034ee626e99bc8a452114f2dca9696d3fe62"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "cnn_bn",
+    "seed": 4,
+    "mode": "source",
+    "max_cpu_replay_error": 8.940696716308594e-08,
+    "checkpoint_sha256": "ce35a3c105a9bec77abb19fea1f90e1cc69a5d49e7b6430489b9744321974153",
+    "probability_sha256": "ad7005cd04d65a01e6cb08c1ec669bc937c81e74a85e1a87c9403f5ce5b96781"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "cnn_bn",
+    "seed": 4,
+    "mode": "target",
+    "max_cpu_replay_error": 1.2516975402832031e-06,
+    "checkpoint_sha256": "ce35a3c105a9bec77abb19fea1f90e1cc69a5d49e7b6430489b9744321974153",
+    "probability_sha256": "f05c7bab8569def5345917e40223b6f5784571fd02d14092dfa8fc6ed856807a"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "resnet_bn",
+    "seed": 0,
+    "mode": "source",
+    "max_cpu_replay_error": 1.3969838619232178e-09,
+    "checkpoint_sha256": "f60d185dab3bb8af53f0341b8ff43725af4a7d85e914d09132bd2b0402ca60b4",
+    "probability_sha256": "4a1540290c5885afd1aba5845d2ff18565965deb3840d6715cc76bc9978df210"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "resnet_bn",
+    "seed": 0,
+    "mode": "target",
+    "max_cpu_replay_error": 3.725290298461914e-09,
+    "checkpoint_sha256": "f60d185dab3bb8af53f0341b8ff43725af4a7d85e914d09132bd2b0402ca60b4",
+    "probability_sha256": "1aaaf3aa9443799d42bc6a958635436c6afae98c36d5ec93963777e1a40aca59"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "resnet_bn",
+    "seed": 1,
+    "mode": "source",
+    "max_cpu_replay_error": 7.450580596923828e-09,
+    "checkpoint_sha256": "f2daf385113eecfcbc205672e29529f6d55b0661ecd3cde84d2c35cf7a520237",
+    "probability_sha256": "d4019ddf8b55a52b428c58bd02f05a9162ee15755b724d87fcfc74795e6059ac"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "resnet_bn",
+    "seed": 1,
+    "mode": "target",
+    "max_cpu_replay_error": 4.76837158203125e-07,
+    "checkpoint_sha256": "f2daf385113eecfcbc205672e29529f6d55b0661ecd3cde84d2c35cf7a520237",
+    "probability_sha256": "5bc20484df1c0d4061ff9d57a2a3d7d91b4f96324a12abf369c949a4f52d91e7"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "resnet_bn",
+    "seed": 2,
+    "mode": "source",
+    "max_cpu_replay_error": 6.51925802230835e-09,
+    "checkpoint_sha256": "67ae01a35283df6626602c4a1d4a6e819f77d88c4324a8fb4be61f0785351d7d",
+    "probability_sha256": "918bd4c59efb35f4add4460ee0305691ea942c116a16a75be42ccfd3a9abfeda"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "resnet_bn",
+    "seed": 2,
+    "mode": "target",
+    "max_cpu_replay_error": 4.76837158203125e-07,
+    "checkpoint_sha256": "67ae01a35283df6626602c4a1d4a6e819f77d88c4324a8fb4be61f0785351d7d",
+    "probability_sha256": "5affa031497b7e5e1299728f10f5fdfcc4a53292e5c3988cb61245c74c482508"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "resnet_bn",
+    "seed": 3,
+    "mode": "source",
+    "max_cpu_replay_error": 1.1920928955078125e-07,
+    "checkpoint_sha256": "026ffbca85565c5761bbe894ffcf809feb02c8eb83245e7b5c3becd3e6c9974e",
+    "probability_sha256": "dba794f2db965ef7f951f404d5709da356895700d2cf530cc9a188ff07876c91"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "resnet_bn",
+    "seed": 3,
+    "mode": "target",
+    "max_cpu_replay_error": 6.556510925292969e-07,
+    "checkpoint_sha256": "026ffbca85565c5761bbe894ffcf809feb02c8eb83245e7b5c3becd3e6c9974e",
+    "probability_sha256": "64a229320630f4164ad7285dd3dc197b0c99c8c8bcde67dfaa6e5e6a5e82f0c4"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "resnet_bn",
+    "seed": 4,
+    "mode": "source",
+    "max_cpu_replay_error": 3.2782554626464844e-07,
+    "checkpoint_sha256": "3cb53f4b31916e4fbbd626cf6d1138e65fe064c6e530d677a9cbab18b8cb4420",
+    "probability_sha256": "12e58ddfc91d6d92d1178f234cf0be2b5a8fdd125b9c9202876df8d349b8b5eb"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "resnet_bn",
+    "seed": 4,
+    "mode": "target",
+    "max_cpu_replay_error": 4.172325134277344e-07,
+    "checkpoint_sha256": "3cb53f4b31916e4fbbd626cf6d1138e65fe064c6e530d677a9cbab18b8cb4420",
+    "probability_sha256": "bad57afe15d800a556bce7b55af539516e33bda8bb9772500046ad613bb672cf"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "cnn_gn",
+    "seed": 0,
+    "mode": "source",
+    "max_cpu_replay_error": 1.4901161193847656e-08,
+    "checkpoint_sha256": "6252e6b2f977924b96fbdcafa01f64107e35f1ec7e471d3cba6ced8bc3552310",
+    "probability_sha256": "50dde0f9dea9de0c84d537c024e1b7bf29ee8e27feb3b5c5e5d3fbc9f64d95c5"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "cnn_gn",
+    "seed": 1,
+    "mode": "source",
+    "max_cpu_replay_error": 1.341104507446289e-07,
+    "checkpoint_sha256": "68d90e3bb190df9df0f9436d6df16bed421ebf4360f866727b31b793204dd594",
+    "probability_sha256": "93ee73c01361eda084d4f08b0a4b7370bb2c1e691a934d72b732b86082d36aef"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "cnn_gn",
+    "seed": 2,
+    "mode": "source",
+    "max_cpu_replay_error": 2.2351741790771484e-07,
+    "checkpoint_sha256": "36210688452286f30f2c74895560002b74395d031a599da77d45340a388d5f64",
+    "probability_sha256": "fd304725ded5b0ab1a8538f54b9768739d3af9b6b148ebe2b42c335589cd48f9"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "cnn_gn",
+    "seed": 3,
+    "mode": "source",
+    "max_cpu_replay_error": 2.980232238769531e-07,
+    "checkpoint_sha256": "eb1f3a9af0320119c139dc2c692b72af84a7053ae189ca3465080caaaf66e949",
+    "probability_sha256": "959556738c81ef9ae986a5b95c373292842a2791f85e42ddc67a64ea0642ba17"
+  },
+  {
+    "dataset": "pneumoniamnist",
+    "arch": "cnn_gn",
+    "seed": 4,
+    "mode": "source",
+    "max_cpu_replay_error": 1.1920928955078125e-07,
+    "checkpoint_sha256": "4e627c9306c2b1ea0ebc6337238b310b792007ea3b5a6f93392df7bbe3cad88f",
+    "probability_sha256": "2850f1bd29fcf13c6f84e726e8d70973025ccd6269ddc3ab4c007ded291b8eff"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "cnn_bn",
+    "seed": 0,
+    "mode": "source",
+    "max_cpu_replay_error": 8.940696716308594e-08,
+    "checkpoint_sha256": "a47b2b2e307ea785e5de89765b54ad47763c322ea721965d01932bcea30dee31",
+    "probability_sha256": "bcd07e01fb0274da95ce8e9a301ca2b74726b7b428751d51c7641518bfe25885"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "cnn_bn",
+    "seed": 0,
+    "mode": "target",
+    "max_cpu_replay_error": 5.662441253662109e-07,
+    "checkpoint_sha256": "a47b2b2e307ea785e5de89765b54ad47763c322ea721965d01932bcea30dee31",
+    "probability_sha256": "3ba2963abca170c0491da9d13e81ed177cd5cbf3997ddb4d562111e67f283c32"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "cnn_bn",
+    "seed": 1,
+    "mode": "source",
+    "max_cpu_replay_error": 5.960464477539062e-07,
+    "checkpoint_sha256": "d62631583259b17c96e0b7dfd012eb4ff3b6a22c98cacfeecc6971ed9ed4f575",
+    "probability_sha256": "4b16b26f95e0f7b86d0b6d73321be74cfc21fcea69577bff4a1859fd796b60d0"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "cnn_bn",
+    "seed": 1,
+    "mode": "target",
+    "max_cpu_replay_error": 5.960464477539062e-07,
+    "checkpoint_sha256": "d62631583259b17c96e0b7dfd012eb4ff3b6a22c98cacfeecc6971ed9ed4f575",
+    "probability_sha256": "8bd6ea1207a8e2f85f5f36c7b1f261d1a0b05bacac2cead4f0a405e3b94cd8b5"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "cnn_bn",
+    "seed": 2,
+    "mode": "source",
+    "max_cpu_replay_error": 2.8312206268310547e-07,
+    "checkpoint_sha256": "d1f0e592bf524c2be54c432af5e4ff2372d069d2db4411caa36a6c4357e8af3a",
+    "probability_sha256": "9ac9a65403c928cb3d10223a21244e4bb1311a6c1550bb077908781ec11bf39a"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "cnn_bn",
+    "seed": 2,
+    "mode": "target",
+    "max_cpu_replay_error": 4.76837158203125e-07,
+    "checkpoint_sha256": "d1f0e592bf524c2be54c432af5e4ff2372d069d2db4411caa36a6c4357e8af3a",
+    "probability_sha256": "237fa88414106b6b179a19ad4366bb8652ff9ab54399930baede93dcfc95d2eb"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "cnn_bn",
+    "seed": 3,
+    "mode": "source",
+    "max_cpu_replay_error": 4.76837158203125e-07,
+    "checkpoint_sha256": "bac890900ad355d9e908163a01bdc78076c8d0b4fe3b28f991996a9c915e59e8",
+    "probability_sha256": "e6376eb02d54a749a42e21800dbf39c5b2d0ca3411623b863ed6feae886b07d0"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "cnn_bn",
+    "seed": 3,
+    "mode": "target",
+    "max_cpu_replay_error": 8.344650268554688e-07,
+    "checkpoint_sha256": "bac890900ad355d9e908163a01bdc78076c8d0b4fe3b28f991996a9c915e59e8",
+    "probability_sha256": "90d9745aa44359486c6584e87d5099e0e55f45c16f222d98f44e8f7f92d6f7cb"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "cnn_bn",
+    "seed": 4,
+    "mode": "source",
+    "max_cpu_replay_error": 2.980232238769531e-07,
+    "checkpoint_sha256": "c930d2d2099e06a87f8ba68879a00923ee79b37f14cdd8a7e99748f5e334d94a",
+    "probability_sha256": "88c81d9c41e8cd54482c6c9a2595cafdcf039a93d409d64e95700d142b1b4ed7"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "cnn_bn",
+    "seed": 4,
+    "mode": "target",
+    "max_cpu_replay_error": 7.748603820800781e-07,
+    "checkpoint_sha256": "c930d2d2099e06a87f8ba68879a00923ee79b37f14cdd8a7e99748f5e334d94a",
+    "probability_sha256": "0d85458fa3184f714ecdb420d5ba4edc5885bebbde4cd95ec8db9a61907608e9"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "resnet_bn",
+    "seed": 0,
+    "mode": "source",
+    "max_cpu_replay_error": 1.7881393432617188e-07,
+    "checkpoint_sha256": "2a741790e95ad56bf35fc849fd1855e28b42882cf2fc6ae267a78c5a56049317",
+    "probability_sha256": "e396ec04beb99e3572a5936ac4126228802c91a03940479d6309b99684761baf"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "resnet_bn",
+    "seed": 0,
+    "mode": "target",
+    "max_cpu_replay_error": 1.1920928955078125e-07,
+    "checkpoint_sha256": "2a741790e95ad56bf35fc849fd1855e28b42882cf2fc6ae267a78c5a56049317",
+    "probability_sha256": "eddb27fae6d738650e42bc7ce8ae4d29848e98bc8066a2e255c9fe4e5c7c6e60"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "resnet_bn",
+    "seed": 1,
+    "mode": "source",
+    "max_cpu_replay_error": 9.5367431640625e-07,
+    "checkpoint_sha256": "a0191f5339c81d3b323ab282266efede232dd533468d12b5f74544586fb22009",
+    "probability_sha256": "6cead394db4c1d750e8313707c3725a36c6f46543fd75e311eee6cb60bd1e617"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "resnet_bn",
+    "seed": 1,
+    "mode": "target",
+    "max_cpu_replay_error": 5.662441253662109e-07,
+    "checkpoint_sha256": "a0191f5339c81d3b323ab282266efede232dd533468d12b5f74544586fb22009",
+    "probability_sha256": "eb88ddc17672915b01505c1460a8060989e1e2d4d8a11422ab9d99f786484a74"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "resnet_bn",
+    "seed": 2,
+    "mode": "source",
+    "max_cpu_replay_error": 3.2782554626464844e-07,
+    "checkpoint_sha256": "e061d9fe944bf215910127022ff45ceb80065263150df80e1a59a85fcbcd94c8",
+    "probability_sha256": "8491c9754918f7639708f827312997ec09577bf6ac39ea96f2426815066fe9d2"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "resnet_bn",
+    "seed": 2,
+    "mode": "target",
+    "max_cpu_replay_error": 5.364418029785156e-07,
+    "checkpoint_sha256": "e061d9fe944bf215910127022ff45ceb80065263150df80e1a59a85fcbcd94c8",
+    "probability_sha256": "6aabda72a78f4724a538172493830eddbc55be021894bbed27aee60a42ef7c20"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "resnet_bn",
+    "seed": 3,
+    "mode": "source",
+    "max_cpu_replay_error": 4.76837158203125e-07,
+    "checkpoint_sha256": "9ae1344e9157d82801bb21be34bcdde0f2f8932568e74916a5b08b5701733197",
+    "probability_sha256": "9ebb5434735e439627291fc19e1f8fc0831b9446718d66e04b3596a9e32c7b19"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "resnet_bn",
+    "seed": 3,
+    "mode": "target",
+    "max_cpu_replay_error": 4.76837158203125e-07,
+    "checkpoint_sha256": "9ae1344e9157d82801bb21be34bcdde0f2f8932568e74916a5b08b5701733197",
+    "probability_sha256": "cbdf37f4ac2bc9241268bd76e7917c192986494f29b7a3abec1da243546f1239"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "resnet_bn",
+    "seed": 4,
+    "mode": "source",
+    "max_cpu_replay_error": 2.682209014892578e-07,
+    "checkpoint_sha256": "dfaf1d8f98bc893fd64c2e3fe4ea6bea788a628c0643d5dca44ee6f78cd37aa4",
+    "probability_sha256": "5111e16c93b7ed111e494934a715effe254859bd4cde70ea331590dd5f8c2029"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "resnet_bn",
+    "seed": 4,
+    "mode": "target",
+    "max_cpu_replay_error": 1.7881393432617188e-07,
+    "checkpoint_sha256": "dfaf1d8f98bc893fd64c2e3fe4ea6bea788a628c0643d5dca44ee6f78cd37aa4",
+    "probability_sha256": "25d909e16b4d557d3ecbb3a1199829dd447dc5b35e70111deea281373cfed4cd"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "cnn_gn",
+    "seed": 0,
+    "mode": "source",
+    "max_cpu_replay_error": 1.7881393432617188e-07,
+    "checkpoint_sha256": "1420da80218a32b5f77ed1c1851195cdd57160dbad2967042457a5ee7695fe05",
+    "probability_sha256": "f162bdbd013a482249fbe5b064fd6ffe8e805b16f4b148be09f7bbc113167128"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "cnn_gn",
+    "seed": 1,
+    "mode": "source",
+    "max_cpu_replay_error": 2.682209014892578e-07,
+    "checkpoint_sha256": "30ae15b0940f7eb441ea0114d60edfcd161d5c2da0105bf96ae6867f174621b7",
+    "probability_sha256": "383a41ae7d19c91e266b8479057162244081f0c23e9448460d2ebcd47cac99a1"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "cnn_gn",
+    "seed": 2,
+    "mode": "source",
+    "max_cpu_replay_error": 1.1920928955078125e-07,
+    "checkpoint_sha256": "b3529af63413d7f72b88c317020f88bb60d5fe5a17ce57e1a55ee99579ea20b1",
+    "probability_sha256": "94f5954cdd9b84fa4aa7f2941e14461756db6ed3c74870b5036dac4db689be17"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "cnn_gn",
+    "seed": 3,
+    "mode": "source",
+    "max_cpu_replay_error": 1.7881393432617188e-07,
+    "checkpoint_sha256": "58e8dccf660511fd36300eb62921ac0ed2583d8807a8cc8c06bf8943a7feb79e",
+    "probability_sha256": "ba0da454d996f17f307013e15577a3e8944a627083682bb64546b6f01df243ee"
+  },
+  {
+    "dataset": "breastmnist",
+    "arch": "cnn_gn",
+    "seed": 4,
+    "mode": "source",
+    "max_cpu_replay_error": 2.384185791015625e-07,
+    "checkpoint_sha256": "9e9ace99d3d7f367cff110e8e9320ea20b2d027eb55fcf1948b13a634e0f2818",
+    "probability_sha256": "475e3231eb7e7810f44812b2e56d802a477127975a519f85bf487c883c6b091b"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "cnn_bn",
+    "seed": 0,
+    "mode": "source",
+    "max_cpu_replay_error": 3.5762786865234375e-07,
+    "checkpoint_sha256": "7b08c888b11712311c57ce0f6251873a52ff0248bdd5d02af372a0f97616be8a",
+    "probability_sha256": "881601bbb7e98946f1f340b33d7f04b1933a44e09ad43b4e8d9913ce8bb9b97a"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "cnn_bn",
+    "seed": 0,
+    "mode": "target",
+    "max_cpu_replay_error": 3.5762786865234375e-07,
+    "checkpoint_sha256": "7b08c888b11712311c57ce0f6251873a52ff0248bdd5d02af372a0f97616be8a",
+    "probability_sha256": "01b4afa66919a896d83cf79f286bee50aeb61b587e489045300186850156e664"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "cnn_bn",
+    "seed": 1,
+    "mode": "source",
+    "max_cpu_replay_error": 2.980232238769531e-07,
+    "checkpoint_sha256": "3f8e70a6a10634205a843c5b445fc47678b9aeacf684ab407535bc7edd82b616",
+    "probability_sha256": "1bd4588b5b60188fa1812751c4b2d85fe2aab0338885ebc5355be2a6553a13ac"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "cnn_bn",
+    "seed": 1,
+    "mode": "target",
+    "max_cpu_replay_error": 6.854534149169922e-07,
+    "checkpoint_sha256": "3f8e70a6a10634205a843c5b445fc47678b9aeacf684ab407535bc7edd82b616",
+    "probability_sha256": "7127f4e4e349488e63d456fd78fdb7255795fd277d4412ddec85912b65c06d82"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "cnn_bn",
+    "seed": 2,
+    "mode": "source",
+    "max_cpu_replay_error": 2.980232238769531e-07,
+    "checkpoint_sha256": "65d1c918cb694efee3281c0e5ffdced130e6a2ba90d7202b62b99bc6d0d07bbe",
+    "probability_sha256": "ef037a4ab5ff2f790892749aa6d69ff3fa4aa3de79a40f7b10ef475e870e9dd3"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "cnn_bn",
+    "seed": 2,
+    "mode": "target",
+    "max_cpu_replay_error": 7.152557373046875e-07,
+    "checkpoint_sha256": "65d1c918cb694efee3281c0e5ffdced130e6a2ba90d7202b62b99bc6d0d07bbe",
+    "probability_sha256": "454f945343088570050b2631a45deca17b015503c2307cc032f3ad8306c2f1dd"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "cnn_bn",
+    "seed": 3,
+    "mode": "source",
+    "max_cpu_replay_error": 3.5762786865234375e-07,
+    "checkpoint_sha256": "87c13b6ee6788f3fc4f6d55e59c90ea018e8de9ecfb6122004be3dc69d13f431",
+    "probability_sha256": "a2314be52c6bf22c750006384728af0680fbe42a5e4f177777951c3a92ebd201"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "cnn_bn",
+    "seed": 3,
+    "mode": "target",
+    "max_cpu_replay_error": 5.364418029785156e-07,
+    "checkpoint_sha256": "87c13b6ee6788f3fc4f6d55e59c90ea018e8de9ecfb6122004be3dc69d13f431",
+    "probability_sha256": "95c03d6e3d682404028cd2b2bd8d917ad050989276afed3dcffa2abb3f7bb66e"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "cnn_bn",
+    "seed": 4,
+    "mode": "source",
+    "max_cpu_replay_error": 5.364418029785156e-07,
+    "checkpoint_sha256": "d59ba064a58cdc0885b8b7f7a2dee3a704e0cc5df02fe7b9fc8ac28107f38265",
+    "probability_sha256": "f1a256e376a6fbf96b74cf5b33a1cfd8f643ea8f63b8e0a49aa3ca8d7e1cbce0"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "cnn_bn",
+    "seed": 4,
+    "mode": "target",
+    "max_cpu_replay_error": 8.642673492431641e-07,
+    "checkpoint_sha256": "d59ba064a58cdc0885b8b7f7a2dee3a704e0cc5df02fe7b9fc8ac28107f38265",
+    "probability_sha256": "f6f2a1adc296237811527d177a5b43616b34ac5df27322d7a495004777efc8ef"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "resnet_bn",
+    "seed": 0,
+    "mode": "source",
+    "max_cpu_replay_error": 1.341104507446289e-07,
+    "checkpoint_sha256": "edac8e5b834a7de3af1d745925b2e16d52b848a6f820a8710c98eb2fae0761ac",
+    "probability_sha256": "4575d77c1f607d8ddf035fc5b59b7388b94ac643df4037ed7a0832298027b554"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "resnet_bn",
+    "seed": 0,
+    "mode": "target",
+    "max_cpu_replay_error": 6.556510925292969e-07,
+    "checkpoint_sha256": "edac8e5b834a7de3af1d745925b2e16d52b848a6f820a8710c98eb2fae0761ac",
+    "probability_sha256": "77a3d66a89706d2bf71b5f87b288431cd8874e8a66336ea2cdb05ee026af4821"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "resnet_bn",
+    "seed": 1,
+    "mode": "source",
+    "max_cpu_replay_error": 1.1920928955078125e-07,
+    "checkpoint_sha256": "9a4dc47094152f8b0c880087e4a2c414adf9625ea3e11c87ec4fe58aed0909df",
+    "probability_sha256": "a732af27dad1ad27256eab75c7c90ad4acd60110d6fdfc6775a1fb92598ee1ca"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "resnet_bn",
+    "seed": 1,
+    "mode": "target",
+    "max_cpu_replay_error": 2.682209014892578e-07,
+    "checkpoint_sha256": "9a4dc47094152f8b0c880087e4a2c414adf9625ea3e11c87ec4fe58aed0909df",
+    "probability_sha256": "7c32341c3aeb7138d1a066c2f4e56fd702ef9e53d79a246723597ef6f76426fa"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "resnet_bn",
+    "seed": 2,
+    "mode": "source",
+    "max_cpu_replay_error": 1.6391277313232422e-07,
+    "checkpoint_sha256": "24ec61f5a387cd622ee9969b3ab8d74d791896e84a86243057cc0bd7bb8607ff",
+    "probability_sha256": "1607d507a1eddf4b6228583e379adba3491314432aaebf9afc84ff2af0c6f6be"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "resnet_bn",
+    "seed": 2,
+    "mode": "target",
+    "max_cpu_replay_error": 4.172325134277344e-07,
+    "checkpoint_sha256": "24ec61f5a387cd622ee9969b3ab8d74d791896e84a86243057cc0bd7bb8607ff",
+    "probability_sha256": "34d4f33a1f770ab8e5cf559729f126a0001fb1ec3cb3987fcdb10b1a4e667977"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "resnet_bn",
+    "seed": 3,
+    "mode": "source",
+    "max_cpu_replay_error": 5.21540641784668e-08,
+    "checkpoint_sha256": "38a6da8db05d29430f6588d217ecce47dd685138e381747bef88d3a93b4de80d",
+    "probability_sha256": "843adc3d49556eab30584db25d3cf57a78c4fe8cc588398ac63576be5f11f736"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "resnet_bn",
+    "seed": 3,
+    "mode": "target",
+    "max_cpu_replay_error": 3.5762786865234375e-07,
+    "checkpoint_sha256": "38a6da8db05d29430f6588d217ecce47dd685138e381747bef88d3a93b4de80d",
+    "probability_sha256": "0dd55cca21fbbb5517ee4c4bcf2306e85b9c9c14ae13fd4392731c6c0558fccd"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "resnet_bn",
+    "seed": 4,
+    "mode": "source",
+    "max_cpu_replay_error": 8.940696716308594e-08,
+    "checkpoint_sha256": "dcbf6df85cef9e5ab557924a1c5aa9c9355f3a415c5f78ca5f46fe56c4a0d916",
+    "probability_sha256": "59a6ad05a44ed40912a6c125c1c1f7444d67e318cb0629d3916342d5baeaba68"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "resnet_bn",
+    "seed": 4,
+    "mode": "target",
+    "max_cpu_replay_error": 3.2782554626464844e-07,
+    "checkpoint_sha256": "dcbf6df85cef9e5ab557924a1c5aa9c9355f3a415c5f78ca5f46fe56c4a0d916",
+    "probability_sha256": "4f526d6ec0fc96929f49feae0593bbc7e6e347c4b0079b514d49d27f9f122da3"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "cnn_gn",
+    "seed": 0,
+    "mode": "source",
+    "max_cpu_replay_error": 5.364418029785156e-07,
+    "checkpoint_sha256": "60992446df091e9c78db0f186160a52a4d2315dd693b0538c4583e4d8a3cab39",
+    "probability_sha256": "3fdb3ec3ac3126fe6a650f55c53367fc3e1faf12f80b928b7f8a95a25159286d"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "cnn_gn",
+    "seed": 1,
+    "mode": "source",
+    "max_cpu_replay_error": 2.384185791015625e-07,
+    "checkpoint_sha256": "8ddac46e5594e76b474ea297e1e8601897d515670e852f7bea309d70f1247ebd",
+    "probability_sha256": "14360cff8a262c39f3cf5341436989774fa6d25bba01c17d2104d785eab7f2b9"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "cnn_gn",
+    "seed": 2,
+    "mode": "source",
+    "max_cpu_replay_error": 2.682209014892578e-07,
+    "checkpoint_sha256": "73c457ca490da83677df9aeec0f0741ccc4c8d993d03337b4027d020ea3ece45",
+    "probability_sha256": "c0217cd11a64e7ba0f9ddefd6851fdf69d6de2a9e90573a8c7c8ae17c973c108"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "cnn_gn",
+    "seed": 3,
+    "mode": "source",
+    "max_cpu_replay_error": 3.5762786865234375e-07,
+    "checkpoint_sha256": "d7a8281b98e94f3ecd1aaa607c5119f622bea76f79ab0d39de5aaa7d4054df7d",
+    "probability_sha256": "278cba95fa5ecdada379810d0c0a77a65abea3aa81e6cd010730d04fc2a2f317"
+  },
+  {
+    "dataset": "dermamnist",
+    "arch": "cnn_gn",
+    "seed": 4,
+    "mode": "source",
+    "max_cpu_replay_error": 4.470348358154297e-08,
+    "checkpoint_sha256": "93266f52eb44703c3266d77312feb482441584104944ac93d8d974c4291fd17c",
+    "probability_sha256": "9a3a1290eb213346b2e13d65a174d7678ae272e51c1c432eb2ffc33641677af9"
+  }
+]

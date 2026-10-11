@@ -1,0 +1,6 @@
+The ISBI 2027 author instructions link this template archive:
+https://biomedicalimaging.org/2025/wp-content/uploads/sites/106/2024/07/ISBI_template-master.zip
+The archive contains the legacy ISBI template, reused by the current author-instructions link. The following files are copied unchanged. Their LPPL notice is in TEMPLATE_LICENSE.txt.
+
+spconf.sty SHA-256 dc5d632639040cb183f2ab62780f314845aa021be73048c8a9ec9c2072d64a86
+IEEEbib.bst SHA-256 7e6ca0c8b72158d504a12bb091f817c07032a021ba41ca783cca4c2dd80d570b

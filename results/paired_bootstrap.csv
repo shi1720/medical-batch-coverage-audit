@@ -1,0 +1,25 @@
+dataset,arch,effect,mean,lower,upper,bootstrap_unit
+pneumoniamnist,cnn_bn,context_mean_minus_joint,0.01307609860664523,0.007394158628081457,0.019401125401929252,query; conditional on five fixed models and calibration sets
+pneumoniamnist,cnn_bn,maxrank_minus_context_coverage,0.015434083601286173,0.008360128617363344,0.023151125401929273,query; conditional on five fixed models and calibration sets
+pneumoniamnist,cnn_bn,maxrank_minus_context_size,0.036548767416934615,0.028885316184351563,0.04442658092175778,query; conditional on five fixed models and calibration sets
+pneumoniamnist,cnn_bn,envelope_minus_nominal_coverage,0.07009646302250803,0.04887459807073954,0.09260450160771702,query; conditional on five fixed models and calibration sets
+pneumoniamnist,resnet_bn,context_mean_minus_joint,0.07459807073954985,0.05884110396570204,0.0915367095391211,query; conditional on five fixed models and calibration sets
+pneumoniamnist,resnet_bn,maxrank_minus_context_coverage,0.11125401929260448,0.08938906752411573,0.13440514469453377,query; conditional on five fixed models and calibration sets
+pneumoniamnist,resnet_bn,maxrank_minus_context_size,0.3963022508038585,0.380117899249733,0.4133467309753491,query; conditional on five fixed models and calibration sets
+pneumoniamnist,resnet_bn,envelope_minus_nominal_coverage,0.32604501607717046,0.2790836012861735,0.3717202572347265,query; conditional on five fixed models and calibration sets
+breastmnist,cnn_bn,context_mean_minus_joint,0.04401709401709401,0.023504273504273504,0.06794871794871793,query; conditional on five fixed models and calibration sets
+breastmnist,cnn_bn,maxrank_minus_context_coverage,0.05641025641025642,0.02564102564102564,0.08974358974358977,query; conditional on five fixed models and calibration sets
+breastmnist,cnn_bn,maxrank_minus_context_size,0.1354700854700855,0.09615384615384617,0.17543269230769223,query; conditional on five fixed models and calibration sets
+breastmnist,cnn_bn,envelope_minus_nominal_coverage,0.09230769230769231,0.04615384615384615,0.1461538461538462,query; conditional on five fixed models and calibration sets
+breastmnist,resnet_bn,context_mean_minus_joint,0.12841880341880343,0.08952991452991456,0.17073183760683758,query; conditional on five fixed models and calibration sets
+breastmnist,resnet_bn,maxrank_minus_context_coverage,0.14358974358974358,0.09743589743589748,0.18974358974358976,query; conditional on five fixed models and calibration sets
+breastmnist,resnet_bn,maxrank_minus_context_size,0.3495726495726495,0.31410256410256426,0.3839743589743591,query; conditional on five fixed models and calibration sets
+breastmnist,resnet_bn,envelope_minus_nominal_coverage,0.3512820512820513,0.2692307692307692,0.4384615384615385,query; conditional on five fixed models and calibration sets
+dermamnist,cnn_bn,context_mean_minus_joint,0.08645410628019323,0.07251433172302736,0.10225185185185184,query; conditional on five fixed models and calibration sets
+dermamnist,cnn_bn,maxrank_minus_context_coverage,0.08034782608695652,0.06469565217391303,0.09739130434782609,query; conditional on five fixed models and calibration sets
+dermamnist,cnn_bn,maxrank_minus_context_size,0.40238325281803544,0.3533066022544285,0.4570190016103065,query; conditional on five fixed models and calibration sets
+dermamnist,cnn_bn,envelope_minus_nominal_coverage,0.12452173913043477,0.10365217391304353,0.14713913043478266,query; conditional on five fixed models and calibration sets
+dermamnist,resnet_bn,context_mean_minus_joint,0.13527858293075684,0.11515330112721416,0.156652495974235,query; conditional on five fixed models and calibration sets
+dermamnist,resnet_bn,maxrank_minus_context_coverage,0.13460869565217393,0.11234782608695647,0.1589565217391304,query; conditional on five fixed models and calibration sets
+dermamnist,resnet_bn,maxrank_minus_context_size,0.6449597423510467,0.5789494363929153,0.718120128824477,query; conditional on five fixed models and calibration sets
+dermamnist,resnet_bn,envelope_minus_nominal_coverage,0.15930434782608696,0.13321739130434784,0.1864347826086956,query; conditional on five fixed models and calibration sets

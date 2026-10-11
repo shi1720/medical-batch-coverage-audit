@@ -1,0 +1,32 @@
+{
+  "names": [
+    "natural_0",
+    "balanced_0",
+    "class0_0",
+    "class1_0",
+    "natural_1",
+    "balanced_1",
+    "class0_1",
+    "class1_1",
+    "natural_2",
+    "balanced_2",
+    "class0_2",
+    "class1_2"
+  ],
+  "pool": "validation; used for checkpoint selection but not gradient training",
+  "batch": 16,
+  "unique_counts": [
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15
+  ]
+}

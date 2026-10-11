@@ -1,0 +1,10 @@
+{
+  "pdf_pages": 4,
+  "replayed_predictions": 85,
+  "primary_models": 45,
+  "higher_resolution_models": 5,
+  "saved_probability_files": 133,
+  "references": 21,
+  "all_citations_resolved": true,
+  "source_images_required_for_this_check": false
+}

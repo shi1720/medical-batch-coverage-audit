@@ -1,0 +1,13 @@
+{
+  "archive_sha256": "2a6faaca43872b4bcf4154a79625631ab29683b41e265ab7936d0513351fe591",
+  "counts": {
+    "train": 4690,
+    "val": 516,
+    "test": 621
+  },
+  "additional_224_byte_removals": {
+    "train": 0,
+    "val": 0,
+    "test": 0
+  }
+}
